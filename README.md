@@ -18,16 +18,6 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanneuwahl&show_icons=true&theme=tokyonight)
-!Top Langs
-
-
-
----
-
 ## 🌟 **Projetos em Destaque**
 - [Pipeline CI/CD com GitHub Actions](https://github.com/devdanneuwahl/pipeline-cicd)
 - [Infraestrutura como Código com Terraform](https://github.com/devdanneuwahl/iac-terraform)
