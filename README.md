@@ -19,9 +19,9 @@
 ---
 
 ## 🌟 **Projetos em Destaque**
-- [Pipeline CI/CD com GitHub Actions](https://github.com/devdanneuwahl/pipeline-cicd)
-- [Infraestrutura como Código com Terraform](https://github.com/devdanneuwahl/iac-terraform)
-- [Monitoramento com Prometheus e Grafana](https://github.com/devdanneuwahl/monitoring-stack)
+- [Aplication Perfomance Monitor](https://github.com/Danneuwahl/APM_TIM)
+- [Monitoramento Zabbix](https://github.com/Danneuwahl/Projetos_Zabbix)
+- [Soluções em ERP](https://github.com/Danneuwahl/Projeto_AquaImob)
 
 ---
 
