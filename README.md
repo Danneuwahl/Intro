@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Olá, eu sou **Daniel Freitas**  
-**Analista de Infraestrutura & DevOps** | 💻DevOps |🚀 Automação | ☁️ Cloud | 🔐 Segurança  
+**Analista de Infraestrutura & DevOps** | 💻DevOps |🚀 Automação | ☁️ Cloud | 📈 Observability
 
 ---
 
